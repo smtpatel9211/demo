@@ -1,10 +1,12 @@
 {
    "splash_inter":"0",
    "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_newPackageName":"",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://264.set.predchamp.com",
    "onewebify":"https://technicalbuz.com/ucode",
+   "qureka_ads":"0",
+   "splash_redirect":"0",
    "adposition":"0",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
